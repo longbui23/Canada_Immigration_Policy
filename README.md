@@ -1,6 +1,6 @@
 # Canada Immigration Policy
 Code requirements
-Numpy
+Numpy \t
 Pandas
 matplotlib
 seaborn
