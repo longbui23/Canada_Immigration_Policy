@@ -17,4 +17,4 @@ Analysing and visualizing immigration per continent with every decade.
 Finding the top countries with most immigrants over each decade.
 Developing vs Developed countries
 Choropleth map for visualizing immigrants to canada from across the world.
-The final choropleth map code and plot is shown in my kaggle kernel https://www.kaggle.com/parthsharma5795/o-canada . Please upvote and feel free to leave a feedback or comment on my kernel if you found it to be helpful !!
+The final choropleth map code and plot is shown in the kaggle kernel https://www.kaggle.com/parthsharma5795/o-canada.
